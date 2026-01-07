@@ -1,0 +1,23 @@
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Python
+venv/
+__pycache__/
+
+# AI models
+*.h5
+tfjs_model/
+
+# Uploads
+public/uploads/
+
+# Editor temp files
+*.swp
+
+# Dataset / temp folders
+labels.txt
+source/
